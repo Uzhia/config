@@ -17,6 +17,7 @@ set nowrap              " 不自动换行（如需换行可改为 `set wrap`）
 set tabstop=4           " Tab显示为4个空格
 set shiftwidth=4        " 自动缩进时使用4个空格
 set expandtab           " 将Tab转换为空格
+set autoindent          " 自动缩进
 set smartindent         " 智能缩进
 
 " === 搜索与替换 ===
