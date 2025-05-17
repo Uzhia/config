@@ -61,11 +61,7 @@ if has('gui_running')
     " 初始窗口大小
     set lines=40 columns=120
 
-    " 真彩色支持
-    if exists('+termguicolors')
-        set termguicolors
-    endif
-    colorscheme gruvbox   " 主题（需提前安装）
+    colorscheme desert
     set background=dark   " 深色模式
 endif
 
@@ -76,34 +72,18 @@ nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
 
-" 保存/退出快捷键
-nnoremap <Leader>w :w<CR>
-nnoremap <Leader>q :q<CR>
+" 启用鼠标支持（可选）
+set mouse=a
+" 自动重新加载外部修改的文件
+set autoread
+" 允许隐藏缓冲区（避免未保存时切换文件报错）
+set hidden
+set foldmethod=indent   " 按缩进折叠
+set foldlevel=99        " 默认不折叠
 
-" 复制粘贴到系统剪贴板
-vnoremap <Leader>y "+y
-nnoremap <Leader>p "+p
-
-" === 插件管理（示例） ===
-call plug#begin('~/.vim/plugged')
-    " 主题插件
-    Plug 'morhetz/gruvbox'
-    
-    " 文件树
-    Plug 'preservim/nerdtree'
-    
-    " 状态栏美化
-    Plug 'vim-airline/vim-airline'
-    
-    " 自动补全（需Node.js）
-    Plug 'neoclide/coc.nvim', {'branch': 'release'}
-call plug#end()
 
 " === 自动命令 ===
 " 保存时去除行尾空格
 autocmd BufWritePre * %s/\s\+$//e
 
-" 根据文件类型设置缩进
-autocmd FileType python setlocal shiftwidth=4 tabstop=4
-autocmd FileType javascript setlocal shiftwidth=2 tabstop=2
 ```
