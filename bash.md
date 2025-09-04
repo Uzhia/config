@@ -62,7 +62,8 @@ zx() {
   [[ -n "$dir" ]] && cd "$dir"
 }
 
-alias znow='z now && ..' # 在常用工作目录中建一个now文件夹即可
+alias cnow='mkdir qzkrvp'
+alias znow='z qzkrvp && ..'
 alias g="gvim"
 alias grts="gvim --remote-tab-silent"
 alias gvd="gvimdiff"
