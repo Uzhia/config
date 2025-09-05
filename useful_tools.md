@@ -1,11 +1,18 @@
-### 截图工具
-
-[Greenshot](https://github.com/greenshot/greenshot)
-
-### 下载工具
-
-[Motrix](https://github.com/agalwood/Motrix)
-
-### PDF工具
-
-[Pdfgear](https://www.pdfgear.com/)
+- win系统截图工具：[Greenshot](https://github.com/greenshot/greenshot)
+- 一款全能的下载工具：[Motrix](https://github.com/agalwood/Motrix)
+- PDF工具：[Pdfgear](https://www.pdfgear.com/)
+- 微软官方提供office文件转markdown：[markitdown](https://github.com/microsoft/markitdown)
+- 假装很忙工具：[rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
+- 不同平台之间传文件：[localsend](https://github.com/localsend/localsend)
+- 桌面宠物：[bongoCat](https://github.com/ayangweb/BongoCat)
+- 更好用的基于firfox的浏览器：[zen-browser](https://github.com/zen-browser/desktop)
+- 浸入式学语言助手：[浏览器插件](https://github.com/xiao-zaiyi/illa-helper)
+- 终端模糊搜索：[fzf](https://github.com/junegunn/fzf)
+- 更聪明的终端cd工具：[zoxide](https://github.com/ajeetdsouza/zoxide)
+- 更现代的终端cat工具：[bat](https://github.com/sharkdp/bat)
+- win系统下轻量级的窗口超分辨率工具：[Magpie](https://github.com/Blinue/Magpie)
+- 微软官方提供win系统实用工具：[PowerToys](https://github.com/microsoft/PowerToys)
+- 工作性价比计算：[worth-calculator](https://github.com/Zippland/worth-calculator)
+- 安卓开源记账软件：[Myexpense](https://github.com/mtotschnig/MyExpenses)
+- 开源画图软件：[drawio](https://github.com/jgraph/drawio-desktop)
+- 支持对pdf编辑的PDF工具箱：[PDFpatcher](https://github.com/wmjordan/PDFPatcher)
