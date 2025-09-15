@@ -18,3 +18,4 @@
 - 支持对pdf编辑的PDF工具箱：[PDFpatcher](https://github.com/wmjordan/PDFPatcher)
 - 聚合新闻：[newsnow](https://github.com/ourongxing/newsnow)
 - 证件照工具：[HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+- 文字转图片：[oneimg](https://github.com/byodian/oneimg)
