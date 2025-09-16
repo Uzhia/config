@@ -1,0 +1,1 @@
+# for bash readline config
