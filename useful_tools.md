@@ -19,3 +19,4 @@
 - 聚合新闻：[newsnow](https://github.com/ourongxing/newsnow)
 - 证件照工具：[HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 - 文字转图片：[oneimg](https://github.com/byodian/oneimg)
+- 网页插件去sdcn广告：[codebox](https://github.com/027xiguapi/code-box)
