@@ -20,3 +20,4 @@
 - 证件照工具：[HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 - 文字转图片：[oneimg](https://github.com/byodian/oneimg)
 - 网页插件去sdcn广告：[codebox](https://github.com/027xiguapi/code-box)
+- 现代“文本转图”脚本语言：[D2lang](https://play.d2lang.com/)
